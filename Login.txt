@@ -1,0 +1,3 @@
+Username.Admin	Password.Admin	Role.Admin	
+Username.2044706643	Password.Test	Role.Reservation Staff	
+Username.Manager	Password.M	Role.Manager	Username.1524476664	Password.45673	Role.Reservation Staff	

@@ -1,0 +1,3 @@
+RoomNumber.123	ReservationID.1816798587	ID.123	CheckIn.12/1/2012	CheckOut.12/12/2012	Amount.16500	CreditCard.123	
+RoomNumber.123	ReservationID.1541205643	ID.123	CheckIn.12/12/2012	CheckOut.12/12/2012	Amount.0	CreditCard.123	
+RoomNumber.123	ReservationID.2123744087	ID.123	CheckIn.3/18/2014	CheckOut.3/19/2014	Amount.1500	CreditCard.123	

@@ -1,0 +1,5 @@
+RoomNumber.123	Class.Suit	
+RoomNumber.124	Class.Suit	
+RoomNumber.125	Class.Suit	
+RoomNumber.126	Class.GardenView	
+RoomNumber.127	Class.GardenView	
