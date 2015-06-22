@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package hotelmanagement;
+package guardshq;
 
 import UI.Admin;
 import UI.Booking;
@@ -14,14 +14,16 @@ import UI.Search;
 
 /**
  *
- * @author Asveni
+ * @author Myrul Seethe
  */
-public class HotelManagement {
+public class GuardsHq 
+{
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         new Login().setVisible(true);
         // TODO code application logic here
     }
